@@ -7,9 +7,6 @@ Backend con **Node.js + Express + MySQL**, frontend con **HTML, CSS y
 JavaScript puro**, autenticación con **JWT** y contraseñas hasheadas con
 **bcrypt**.
 
-> Para estudiar para la defensa, leer **[GUIA-PRESENTACION.md](GUIA-PRESENTACION.md)**.
-> Para el resumen de lo que se modificó, **[MODIFICACIONES.md](MODIFICACIONES.md)**.
-
 ---
 
 ## 1. Puesta en marcha
@@ -109,9 +106,7 @@ gestion-turnos/
 │   ├── gestion_turnos.sql         base original de la cursada
 │   └── cambios_parcial2.sql       cambios de este parcial
 │
-├── README.md
-├── GUIA-PRESENTACION.md           guía de estudio para la defensa
-└── MODIFICACIONES.md              resumen de los cambios (para el PDF)
+└── README.md
 ```
 
 ---
