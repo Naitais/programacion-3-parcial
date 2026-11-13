@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Integrante** | *(completar nombre y apellido)* |
+| **Integrante** | Enzo Fuentes |
 | **Repositorio** | https://github.com/Naitais/programacion-3-parcial |
 | **Fecha** | 13 de noviembre de 2026 |
 
